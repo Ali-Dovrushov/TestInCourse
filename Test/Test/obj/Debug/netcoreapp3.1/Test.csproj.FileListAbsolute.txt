@@ -1,0 +1,12 @@
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/bin/Debug/netcoreapp3.1/Test.deps.json
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.json
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.dev.json
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/bin/Debug/netcoreapp3.1/Test.dll
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/bin/Debug/netcoreapp3.1/Test.pdb
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.csprojAssemblyReference.cache
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfoInputs.cache
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfo.cs
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.csproj.CoreCompileInputs.cache
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.dll
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.pdb
+/Users/dovrushov/Code-projects/C#Projects/Test/Test/Test/obj/Debug/netcoreapp3.1/Test.genruntimeconfig.cache
